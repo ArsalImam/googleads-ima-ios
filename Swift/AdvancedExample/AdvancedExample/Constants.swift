@@ -16,9 +16,7 @@ let kBipBopContentPath = "http://devimages.apple.com/iphone/samples/bipbop/bipbo
 
 // Standard pre-roll
 let kPrerollTag =
-  "https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/"
-  + "single_ad_samples&sz=640x480&cust_params=sample_ct%3Dlinear&ciu_szs=300x250%2C728x90&"
-  + "gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator="
+  "https://cmod-world.live.streamtheworld.com/ondemand/ars?stid=619413&type=preroll&dist=development&scenario=vast&lsid=gaid:65beef11-b6c5-45b1-93bf-7c9cb58ac08d&store-url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dnoice.app&bundle-id=noice.app&store-id=noice.app&maxAds=2"
 
 // Skippable
 let kSkippableTag =

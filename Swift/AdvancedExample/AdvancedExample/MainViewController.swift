@@ -41,47 +41,47 @@ class MainViewController: UIViewController {
         title: "Pre-roll",
         thumbnail: dfpThumbnail,
         video: kDFPContentPath,
-        tag: kPrerollTag),
-      Video(
-        title: "Skippable Pre-roll",
-        thumbnail: androidThumbnail,
-        video: kAndroidContentPath,
-        tag: kSkippableTag),
-      Video(
-        title: "Post-roll",
-        thumbnail: bunnyThumbnail,
-        video: kBigBuckBunnyContentPath,
-        tag: kPostrollTag),
-      Video(
-        title: "AdRules",
-        thumbnail: bipThumbnail,
-        video: kBipBopContentPath,
-        tag: kAdRulesTag),
-      Video(
-        title: "AdRules Pods",
-        thumbnail: dfpThumbnail,
-        video: kDFPContentPath,
-        tag: kAdRulesPodsTag),
-      Video(
-        title: "VMAP Pods",
-        thumbnail: androidThumbnail,
-        video: kAndroidContentPath,
-        tag: kVMAPPodsTag),
-      Video(
-        title: "Wrapper",
-        thumbnail: bunnyThumbnail,
-        video: kBigBuckBunnyContentPath,
-        tag: kWrapperTag),
-      Video(
-        title: "AdSense",
-        thumbnail: bipThumbnail,
-        video: kBipBopContentPath,
-        tag: kAdSenseTag),
-      Video(
-        title: "Custom",
-        thumbnail: androidThumbnail,
-        video: kAndroidContentPath,
-        tag: "custom"),
+        tag: kPrerollTag) //,
+//      Video(
+//        title: "Skippable Pre-roll",
+//        thumbnail: androidThumbnail,
+//        video: kAndroidContentPath,
+//        tag: kSkippableTag),
+//      Video(
+//        title: "Post-roll",
+//        thumbnail: bunnyThumbnail,
+//        video: kBigBuckBunnyContentPath,
+//        tag: kPostrollTag),
+//      Video(
+//        title: "AdRules",
+//        thumbnail: bipThumbnail,
+//        video: kBipBopContentPath,
+//        tag: kAdRulesTag),
+//      Video(
+//        title: "AdRules Pods",
+//        thumbnail: dfpThumbnail,
+//        video: kDFPContentPath,
+//        tag: kAdRulesPodsTag),
+//      Video(
+//        title: "VMAP Pods",
+//        thumbnail: androidThumbnail,
+//        video: kAndroidContentPath,
+//        tag: kVMAPPodsTag),
+//      Video(
+//        title: "Wrapper",
+//        thumbnail: bunnyThumbnail,
+//        video: kBigBuckBunnyContentPath,
+//        tag: kWrapperTag),
+//      Video(
+//        title: "AdSense",
+//        thumbnail: bipThumbnail,
+//        video: kBipBopContentPath,
+//        tag: kAdSenseTag),
+//      Video(
+//        title: "Custom",
+//        thumbnail: androidThumbnail,
+//        video: kAndroidContentPath,
+//        tag: "custom"),
     ]
   }
 
